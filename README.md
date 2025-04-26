@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='c:\Users\13477\Videos\SeaMonsterDem.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Screen Recorder App by Samsung
@@ -34,7 +35,8 @@ GIF created with ...  Screen Recorder App by Samsung
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
 It was difficult to understand destructuring and the spread operator. It was also challenging to recall all the syntax of JavaScript since I haven't engaged with it in a while.
 ## License
 
